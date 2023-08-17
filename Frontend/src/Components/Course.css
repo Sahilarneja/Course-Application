@@ -1,0 +1,18 @@
+/* Course.css */
+.course-card {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  .course-subtitle {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .course-button {
+    margin: 5px;
+  }
+  
